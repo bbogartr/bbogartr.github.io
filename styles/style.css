@@ -1,0 +1,17 @@
+/*<link href="styles/style.css" rel="stylesheet">*/
+html    {background-color: teal; 
+        font-family: Arial, Helvetica, sans-serif;
+        text-align: center;
+        }
+
+h1  {font-size: 100px;
+    text-align:center;
+    }
+
+p   {text-align: justify;
+    font-size: 150px;
+    }
+
+a   {text-align: justify;
+    font-size: 150px;
+    }
