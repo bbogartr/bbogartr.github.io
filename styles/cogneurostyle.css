@@ -1,20 +1,20 @@
 /*<link href="styles/style.css" rel="stylesheet">*/
-html    {background-color:lightpink; 
+html    {background-color:yellowgreen; 
         font-family: Arial, Helvetica, sans-serif;
         text-align: center;
         }
 
 h1  {font-size: 100px;
     text-align:center;
-    color: seagreen;
+    color: black;
     }
 
 p   {text-align: justify;
     font-size: 100px;
-    color:seagreen
+    color:black;
     }
 
 a   {text-align: justify;
     font-size: 150px;
-    color: seagreen;
+    color: black;
     }
