@@ -17,4 +17,6 @@ p   {text-align: justify;
 a   {text-align: justify;
     font-size: 50px;
     color: black;
+    margin-right: 150px;
+    margin-left: 80px;
     }
